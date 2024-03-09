@@ -1,0 +1,280 @@
+name,cuisine,rating,delivery_time,distance,latitude,longitude,id
+McDonald's - Boat Quay,"Burger, Fast Food, Halal",N/A,30 mins , 1.5 km,N/A,N/A,SGDD04944?
+Lucky Cafe - North Canal Road,"Chinese, Noodles, Western, Filipino",N/A,35 mins , 1.5 km,N/A,N/A,4-CZDWARLXDBJYKE?
+LaPasta - High Street Plaza,"Italian, Pasta",N/A,35 mins , 1 km,N/A,N/A,4-C4BFUFV3JAMCRE?
+SF Fruits & Juices - Fullerton Waterboat House,"Healthy, Drinks & Beverages, Fresh Produce",N/A,25 mins , 1.7 km,N/A,N/A,4-C4MDVPMAFGAJUE?
+Eat Bar - South Bridge Road,"Western, Chinese, Local & Malaysian",N/A,30 mins , 1.2 km,N/A,N/A,4-C4NBHA5KRYCYJE?
+Dabao Bento - High Street Plaza,"Japanese, Bento, Fried Chicken",N/A,20 mins , 0.9 km,N/A,N/A,4-C4BFVF3DCBDUCE?
+uMart@BoatQuay - Lorong Telok,"Alcohol, Snacks, Groceries, Convenience, Drinks & Beverages",N/A,25 mins , 1.4 km,N/A,N/A,4-C4DUNYMVBAL2FA?
+uBooze@BoatQuay - Lorong Telok,"Alcohol, Snacks, Beer, Convenience, Drinks & Beverages",N/A,25 mins , 1.4 km,N/A,N/A,4-C4DUNYMVAUW2NT?
+Al-Zamas River Valley Pte. Ltd. - Circular Road,"Indian, BBQ & Grill, Drinks & Beverages",N/A,30 mins , 1.3 km,N/A,N/A,4-C6BDSCEYT4BZGX?
+Hot Shotz - Canton Street,"Western, Snack",N/A,30 mins , 1.5 km,N/A,N/A,4-C3UHAXDTJBDEGN?
+Fat Bao Bao - High Street Plaza,"Local & Malaysian, Snack",N/A,30 mins , 0.9 km,N/A,N/A,4-C3X1VRMCLN6WVX?
+Drunk Skunk - Circular Road,"Western, Pizza, Snack, Indian, Pasta",N/A,N/A,N/A,N/A,N/A,4-C4BDWCCYJKAFVE?
+New Shah Alam Restaurant - Circular Road,"Indian, Vegetarian Friendly, Snack",N/A,25 mins , 1.4 km,N/A,N/A,SGDD00860?
+The Good Boys - 20 Collyer Quay,"Healthy, Drinks & Beverages",N/A,35 mins , 1.8 km,N/A,N/A,4-C2CDVBCCAEJFVN?
+JonesMart - High Street Plaza🏍,"Alcohol, Beverages, Convenience, Mart, Islandwide Delivery",N/A,58 mins , 0.5 km,N/A,N/A,4-C2THARCHMENDVT?
+Sinfonia Ristorante - Victoria Memorial Hall,Italian,N/A,20 mins , 0.1 km,N/A,N/A,4-C2TYVGBWUFVVHA?
+Tribe Restaurant - Old Parliament House,"Western, Burgers",N/A,20 mins , 0.1 km,N/A,N/A,4-CZDCKELAENM3NA?
+Empress - Asian Civilisations Museum,"Chinese, Local & Malaysian, Seafood",N/A,25 mins , 0.1 km,N/A,N/A,4-CZDTEXAWGTMYLE?
+Picotin - Waterboat House,"Western, Drinks & Beverages, Pizza, Pasta, Snack",N/A,N/A,N/A,N/A,N/A,4-C4DALB43TY2WCJ?
+The Fullerton Hotel Singapore Festive Store - The Fullerton Hotel,Mart,N/A,25 mins , 1.8 km,N/A,N/A,4-C3TCA352NN3GCA?
+SF Farm Mart - The Fullerton Waterboat House,"Mart, Groceries",N/A,25 mins , 1.6 km,N/A,N/A,4-CZKXEEBHJ3XDNJ?
+Tandoori Zaika - 70 Boat Quay,"Indian, Salad, Seafood, Vegetarian Friendly",N/A,25 mins , 1.4 km,N/A,N/A,4-CZD3LRMAWEKVLJ?
+The Salad Shop - UOB Plaza 2,"Vegetarian Friendly, Salad, Healthy, Vegan, Group Friendly",N/A,35 mins , 1.6 km,N/A,N/A,4-C2VKKAVDLEXCA6?
+Indian House/Dumpukht Grills & Curry - Boat Quay,"Indian, Vegetarian Friendly, Seafood",N/A,25 mins , 1.3 km,N/A,N/A,SGDD07393?
+Omotenashi Dining Gosso - Boat Quay,"Fried Chicken, Japanese, Hawker",N/A,25 mins , 1.4 km,N/A,N/A,4-CZDKMELKCXXCKA?
+Shangdong Restaurant - Boat Quay,"Chinese, Dim Sum, Seafood",N/A,35 mins , 1.4 km,N/A,N/A,4-CZEXJE2USE4HJN?
+Dum Pukht Curry - Boat Quay,"Indian, Local & Malaysian, Seafood",N/A,30 mins , 1.4 km,N/A,N/A,4-CZACRXVZNJMETT?
+Surrey Hills Deli - Battery Road,"Coffee & Tea, Western, Breakfast & Brunch, Seafood, Snack",N/A,30 mins , 1.6 km,N/A,N/A,4-C4EUGETXNZEJJA?
+Starbucks - Battery Road,"Coffee & Tea, Bakery & Cake, Drinks & Beverages",N/A,25 mins , 1.7 km,N/A,N/A,4-C3XWLKDXEKKUJA?
+BQ Bar - Boat Quay,"BBQ & Grill, Western, Salad",N/A,25 mins , 1.6 km,N/A,N/A,4-CZNFGN3GT3UYJN?
+Starbucks - Battery Road,"Coffee & Tea, Bakery & Cake, Drinks & Beverages",N/A,25 mins , 1.7 km,N/A,N/A,4-C3XWLKDXEKKUJA?
+BQ Bar - Boat Quay,"BBQ & Grill, Western, Salad",N/A,25 mins , 1.6 km,N/A,N/A,4-CZNFGN3GT3UYJN?
+Biryani Bae - Boat Quay,"Indian, Dessert, Drinks & Beverages",N/A,25 mins , 1.3 km,N/A,N/A,4-CZLGVPX1WAB2WE?
+Kinara - Boat Quay,"Indian, Vegetarian, Seafood, Salad, Drinks & Beverages",N/A,30 mins , 1.3 km,N/A,N/A,SGDD00657?
+Sahara Bar & Restaurant - 58 Boat Quay,"Middle Eastern, Western",N/A,25 mins , 1.3 km,N/A,N/A,SGDD01002?
+Tong Fu Ju - 50 Boat Quay,"Chinese, Seafood, Noodles",N/A,35 mins , 1.3 km,N/A,N/A,SGDD01175?
+Three Amigos Mexican and Indian - Boat Quay 🏍,"Indian, Western, Mexican, Pizza, Islandwide Delivery",N/A,83 mins , 1.2 km,N/A,N/A,4-C3THEFNCC3EXTJ?
+Sultan Palace Turkish & Lebanese Cuisine - 73 Boat Quay,"Indian, Middle Eastern, Salad, Seafood, Pizza",N/A,30 mins , 1.2 km,N/A,N/A,4-C3W2TJE3ANKWJA?
+Curry Home - Boat Quay,"Indian, Vegetarian Friendly, Fried Chicken",N/A,30 mins , 1.3 km,N/A,N/A,4-CZM3CECKKFECEA?
+Indian House - Boat Quay,"Fried Chicken, Indian, Vegetarian Friendly",N/A,70 mins , 1.4 km,N/A,N/A,4-CZLCNULFTNVKEN?
+Bombay Kitchen - Indian And Mexican Cuisine - Boat Quay,"Indian, Mexican, Vegetarian Friendly, Alcohol",N/A,N/A,N/A,N/A,N/A,4-C6CHAK2DVKBDLJ?
+Shrimp Prawn Seafood - Boat Quay,"Thai, Seafood, BBQ & Grill",N/A,N/A,N/A,N/A,N/A,4-C6EATNDTCXCYPE?
+Rubato - Boat Quay,"Italian, Pizza, Steak, Pasta",N/A,N/A,N/A,N/A,N/A,4-C25FDBVTE3MTNA?
+Tuca Restaurant - Boat Quay,"Italian, Pasta, Pizza, Spanish",N/A,35 mins , 1.5 km,N/A,N/A,4-C2CVJPVCWCCKME?
+Haldi - The Taste of India - 61 Boat Quay,Indian,N/A,25 mins , 1.3 km,N/A,N/A,4-C3JKPEECPFKDJT?
+Kaayaloram Kerala Restaurant - Boat Quay,"Local & Malaysian, Indian, Vegetarian Friendly",N/A,25 mins , 1.2 km,N/A,N/A,4-C2M3GP62N8N3BA?
+Vespetta Italian Restaurant - 40 Boat Quay,"Italian, Pizza, Pasta, Dessert, Western",N/A,35 mins , 1.5 km,N/A,N/A,SGDD01246?
+Pilcrow - Boat Quay Conservation Area,"Western, Pizza, Dessert",N/A,N/A,N/A,N/A,N/A,4-C3K3ATAUNXTXNX?
+Briyani Hut - Boat Quay,"Indian, Fried Chicken, Local & Malaysian",N/A,30 mins , 1.4 km,N/A,N/A,4-C32KFE3EFB31T2?
+Mr Tandoor - Boat Quay,"Indian, Biryani, Chinese cuisine, Curry",N/A,30 mins , 1.3 km,N/A,N/A,4-C32KFE3EET3HAX?
+Boat Quay Mix & Match,"Fried Chicken, Indian, Western, Chinese",N/A,25 mins , 1.5 km,N/A,N/A,4-CZN1FBMZSE2FTJ?
+Harvest Seafood Restaurant - Boat Quay,"Zi Char, Seafood, Alcohol",N/A,N/A,N/A,N/A,N/A,4-C6DATXDGJFXYC6?
+Harry's - Boat Quay,"Western, Burgers, Alcohol",N/A,35 mins , 1.6 km,N/A,N/A,SGDD06424?
+Pasta Fresca Da Salvatore - Boat Quay,"Italian, Pizza",N/A,30 mins , 1.6 km,N/A,N/A,SGDD11354?
+Mr Holmes Bakehouse - Myp Centre,"Bakery & Cake, Snack, Cakes & Bakeries",N/A,30 mins , 1.6 km,N/A,N/A,4-C3MEC7WJG24CFE?
+George Town Tze Char And Craft Beer - Boat Quay,"Chinese, Local & Malaysian, Seafood",N/A,30 mins , 1.2 km,N/A,N/A,4-C2TCWAECAGL3LT?
+Ronin - Boat Quay,"Local & Malaysian, Snack, Drinks & Beverages",N/A,N/A,N/A,N/A,N/A,4-C3TVJGAJSA3HN6?
+Curry Village - Authentic North Indian Cuisine,"Indian, Noodles, Drinks & Beverages, Seafood, Indonesian",N/A,119 mins , 1.5 km,N/A,N/A,4-CZJVNT5XJ7V3TA?
+Curry Village-Authentic North Indian Cuisine - Boat Quay,Indian,N/A,30 mins , 1.5 km,N/A,N/A,4-C26KKB5KJRAKGX?
+Khushboo – The Fragrance of India - Boat Quay,"Indian, Seafood, Noodles, Vegetarian Friendly, Drinks & Beverages",N/A,30 mins , 1.5 km,N/A,N/A,4-CZD3LRMKDETDSE?
+1826 - Boat Quay,Coffee & Tea,N/A,35 mins , 1.6 km,N/A,N/A,4-C22GRBMCGBBCCT?
+Shahi Maharaja - Boat Quay,"Bakery & Cake, Breakfast & Brunch, BBQ & Grill, Bento, Drinks & Beverages",N/A,30 mins , 1.6 km,N/A,N/A,4-C4D3DEU1T3LYDA?
+Mirch Masalah - Boat Quay,Indian,N/A,78 mins , 1.5 km,N/A,N/A,4-C2JFWEUWEKLFAT?
+Dark Horse - Boat Quay,"Kids Friendly, Japanese, Drinks & Beverages, BBQ & Grill, Seafood",N/A,35 mins , 1.6 km,N/A,N/A,4-C2THEBB3LJCZWA?
+Anjana Kitchen - Six Battery Road,"Indian, Noodles, Breakfast & Brunch",N/A,30 mins , 1.6 km,N/A,N/A,4-C6AXGAXGGYL2CT?
+Bombay Kitchen - North Indian And Mexican Cuisine - Boat Quay,"Indian, Mexican, Vegetarian Friendly, Alcohol",N/A,60 mins , 1.2 km,N/A,N/A,4-C6CHAK2DT6MGC6?
+Mellow North Indian and Mexican Cuisine - Boat Quay 🏍,"Indian, Mexican, Bento",N/A,N/A,N/A,N/A,N/A,4-C6BVG7DJMAWEC6?
+Mellow-Indian And Mexican Cuisine - Boat Quay,"Indian, Mexican, Bento",N/A,N/A,N/A,N/A,N/A,4-C6BVE33YVAUVAX?
+Jidai - Circular Road,"Japanese, Ramen, Seafood",N/A,N/A,N/A,N/A,N/A,4-C24XCFWXL7W3KA?
+Bistro Aseana - One Fullerton,"Indonesian, Snack, Bubble Tea",N/A,25 mins , 1.6 km,N/A,N/A,4-CZB1NJBJHCLCTX?
+Flame On - Circular Road,"BBQ & Grill, Local & Malaysian, Seafood",N/A,N/A,N/A,N/A,N/A,4-C6BFLPCKT3JBHE?
+Viet'Spice - Hương vị Việt - Circular Road,"Vietnamese, Salad, Seafood, Noodles, Drinks & Beverages",N/A,25 mins , 1.3 km,N/A,N/A,4-C4ACNJ5UV6LGA6?
+Delhi6 - Circular Road,"Indian, Vegetarian Friendly",N/A,30 mins , 1.5 km,N/A,N/A,4-C4CZA8LYCFNJGE?
+Szechwings - Circular Road,"Snack, Fried Chicken, Chinese, Zi Char",N/A,N/A,N/A,N/A,N/A,4-C2BBFFVFELBBA2?
+Bon Bush - Circular Road,"Western, Steak, Pasta",N/A,N/A,N/A,N/A,N/A,4-C4LHRPLVENJDR2?
+Dazzling Delish - Circular Road,"Drinks & Beverages, Japanese, Snack",N/A,N/A,N/A,N/A,N/A,4-C3BTC3W2GXJGG2?
+Rabbit Brand Seafood Delicacies - Circular Road,"Seafood, Chinese",N/A,35 mins , 1.3 km,N/A,N/A,4-CZCAR3AGUCMBGA?
+PS.Cafe - One Fullerton,"Local & Malaysian, Pasta, Coffee & Tea",N/A,35 mins , 2.9 km,N/A,N/A,SGDD08719?
+Tom Yum Kung Fu - Boat Quay,"Thai, Salad, Dessert",N/A,25 mins , 1.3 km,N/A,N/A,SGDD02161?
+MOS Burger - One Fullerton,"Fast Food, Burger, Snack",N/A,30 mins , 1.6 km,N/A,N/A,4-C2JFDFCBEA6EWA?
+Jangsu Korean Restaurant - Circular Road,"Noodles, Korean",N/A,35 mins , 1.2 km,N/A,N/A,4-CY4TANABMEEKEJ?
+#Foodcoholic - 40 Circular Road,"Western, Pizza, Indian, Burgers",N/A,30 mins , 1.5 km,N/A,N/A,SGDD00055?
+Quay House - Circular Road,"Thai, Local & Malaysian, Healthy",N/A,N/A,N/A,N/A,N/A,4-C4MXEJ2KVA41GX?
+Los Amigos Taqueria - Circular Road,"Mexican, BBQ & Grill, Western",N/A,35 mins , 1.4 km,N/A,N/A,4-CZJ1TPWEBAL2LJ?
+Wild Child Pizzette - Circular Road,Pizza,N/A,30 mins , 1.4 km,N/A,N/A,4-C2XUWACYVTWXME?
+Dumpling Darlings - Circular Road,"Noodles, Chinese, Local & Malaysian",N/A,30 mins , 1.3 km,N/A,N/A,4-C2ADA2EACYTCNN?
+Hermano By Sleeping Giants - Circular Road,"Western, Pizza",N/A,25 mins , 1.3 km,N/A,N/A,4-CYT3VBLELT2UNX?
+The Mask - Circular Road,"Mexican, Indian",N/A,30 mins , 1.3 km,N/A,N/A,SGDD08575?
+Yatagarasu - Circular Road,"Japanese, Fried Chicken, BBQ & Grill",N/A,25 mins , 1.5 km,N/A,N/A,4-CZDJNNX1PCJ2LE?
+issho izakaya - One Fullerton,"Bento, Japanese, Drinks & Beverages, Sushi, Group Friendly",N/A,N/A,N/A,N/A,N/A,4-C3UAC7DDMF3CG2?
+Hello Korean Bbq - Circular Road,"BBQ & Grill, Korean",N/A,30 mins , 1.5 km,N/A,N/A,4-CZE3JTC2KEA2T2?
+Aroy-Dee Thai Kitchen - Boat Quay,Thai,N/A,35 mins , 1.4 km,N/A,N/A,SGDD00295?
+The Hitsuji Club - Circular Road,"Bento, Japanese, BBQ & Grill",N/A,25 mins , 1.5 km,N/A,N/A,4-CZDJNNXVEJ5WLA?
+Kim's Singapore Bistro - Boat Quay Conservation Area,"Vegetarian Friendly, BBQ & Grill, Zi Char, Bubble Tea, Chinese",N/A,25 mins , 1.5 km,N/A,N/A,4-C3XFR3WCA2CVRA?
+Bytes Station - Raffles MRT Station,"Western, Bakery & Cake, Breakfast, Drinks & Beverages",N/A,N/A,N/A,N/A,N/A,4-C4CJJAXARBXDV2?
+National Kitchen by Violet Oon - National Gallery,"Bento, MICHELIN Plate, Local & Malaysian, Group Friendly",N/A,30 mins , 1.2 km,N/A,N/A,4-CZDBLNAFCYN2RT?
+Dzan's Corner - South Bridge Road,"Local & Malaysian, Noodles, Seafood, BBQ & Grill",N/A,N/A,N/A,N/A,N/A,4-C4KWA3EANE42GE?
+Jao Thai Food - South Bridge Road,"Western, Thai, BBQ & Grill, Drinks & Beverages",N/A,35 mins , 1.3 km,N/A,N/A,4-C2TZLXDJLTDXE6?
+Overeasy - 1 Fullerton Road,"Snack, Burgers, Western",N/A,35 mins , 3.1 km,N/A,N/A,4-CYVKSA6YRATACN?
+The Penny Black Victorian London Pub - Boat Quay,"Alcohol, Snack, Western, Burger, Drinks & Beverages",N/A,35 mins , 1.5 km,N/A,N/A,4-C2WVTE2WRN4WVT?
+Village Nasi Lemak Bar - Circular Road,"Local & Malaysian, BBQ & Grill, Drinks & Beverages",N/A,25 mins , 1.5 km,N/A,N/A,4-CYMZRGBKR6BWEE?
+Xin Yuan Ji Fish Soup 新源记 - One Raffles Place,"Chinese, Local & Malaysian, Seafood, Noodles, Snack",N/A,35 mins , 1.6 km,N/A,N/A,4-C4KBCYMTFBLVNE?
+Grains & Co. - One Raffles Place,"Healthy, Bento, Breakfast & Brunch, Salad",N/A,35 mins , 1.6 km,N/A,N/A,4-C4EUGJ4GTREJEJ?
+Shimmer Healthy Bowl By Popular Food - One Raffles Place,"Breakfast & Brunch, Healthy, Salad, Local & Malaysian",N/A,30 mins , 1.6 km,N/A,N/A,4-C4NBG6U3LPVKKA?
+Chuan Taizi Mala Tang - One Raffles Place,"Chinese, Mala, Drinks & Beverages",N/A,N/A,N/A,N/A,N/A,4-C6BYR8BBAYNCNA?
+KOI Thé - One Raffles,"Bubble Tea, Coffee & Tea, Drinks & Beverages",N/A,35 mins , 1.6 km,N/A,N/A,4-C4MFVA5ALUTZAJ?
+Macpherson BBQ Seafood - Leagoo Building,"Local & Malaysian, Chinese, Seafood, Noodles",N/A,30 mins , 1.3 km,N/A,N/A,SGDD06267?
+Dopa Dopa Creamery - South Bridge Road,"Dessert, Ice Cream, Mart",N/A,30 mins , 1.3 km,N/A,N/A,4-C2UZJPN3LRJDLX?
+Co Chung Restaurant - Lorong Telok,"Vietnamese, BBQ & Grill, Drinks & Beverages",N/A,30 mins , 1.3 km,N/A,N/A,4-C2LYG2CGC4AYJA?
+Tong Xin Ru Yi - Lorong Telok,"Chinese, Noodles",N/A,25 mins , 1.3 km,N/A,N/A,4-CZDXJJMKNPBVWE?
+The Supplement Haven - Circular Road,Health & Wellness,N/A,N/A,N/A,N/A,N/A,4-C32UTFWBETUYNX?
+SF Fruit & Juices - One Raffles Place,"Healthy, Drinks & Beverages, Fresh Produce",N/A,30 mins , 1.5 km,N/A,N/A,4-C4MDVPMAFCDKCJ?
+KS Chicken - One Fullerton,"Fried Chicken, Korean, Drinks & Beverages",N/A,N/A,N/A,N/A,N/A,4-C6DANYWGAN2FGJ?
+Freakin' Yummy Izakaya (FYI) - Circular Road,"Japanese, BBQ & Grill",N/A,25 mins , 1.5 km,N/A,N/A,4-CZDUHEJHWATWJX?
+The Great Mischief - National Gallery Singapore,"Spanish, Coffee & Tea, Breakfast & Brunch, Pasta",N/A,30 mins , 1.1 km,N/A,N/A,4-C3EFE3E1RLEBDE?
+Mr Bean - Raffles Place MRT Station,"Local & Malaysian, Breakfast & Brunch, Healthy",N/A,35 mins , 1.7 km,N/A,N/A,4-CYTKLXJFGRMVNA?
+Legendary Bak Kut Teh - South Bridge Road,"Local & Malaysian, Chinese, Noodles",N/A,30 mins , 1.1 km,N/A,N/A,4-C2DJCGCKVN63J6?
+The Grill Knife - Raffles Place MRT Station,"Kids Friendly, Halal, BBQ & Grill, Western",N/A,35 mins , 1.5 km,N/A,N/A,4-C2THVYVKT6UKCA?
+Killiney Kopitiam - Lorong Telok,"Breakfast & Brunch, Drinks & Beverages, Coffee & Tea",N/A,30 mins , 1.4 km,N/A,N/A,4-C2AGSB4CRKVHL2?
+MinXiaoMin - South Bridge Road,"Chinese, Vegetarian Friendly, Alcohol, Drinks & Beverages",N/A,N/A,N/A,N/A,N/A,4-C6EASFDJT6XTLT?
+Gyo Gyo - Funan,"Japanese, Pasta, Seafood, Drinks & Beverages",N/A,25 mins , 0.5 km,N/A,N/A,4-C3NZSEWUCBVBAT?
+Boost Juice Bars - Funan,"Drinks & Beverages, Ice Cream, Dessert",N/A,25 mins , 0.5 km,N/A,N/A,4-C3CDSE4FCA6BE6?
+The Green Collective SG - Funan Mall,"Alcohol, Snack, Mart, Health & Wellness, Vegan",N/A,20 mins , 0.5 km,N/A,N/A,4-C2XBJY4XDETUJ6?
+Boost Juice Bars - Funan,"Drinks & Beverages, Ice Cream, Dessert",N/A,25 mins , 0.5 km,N/A,N/A,4-C3CDSE4FCA6BE6?
+The Green Collective SG - Funan Mall,"Alcohol, Snack, Mart, Health & Wellness, Vegan",N/A,20 mins , 0.5 km,N/A,N/A,4-C2XBJY4XDETUJ6?
+Stuff'd - Funan,"Healthy, Salad, Mexican, Halal, Group Friendly",N/A,25 mins , 0.5 km,N/A,N/A,4-C2VKLAC2MBT2NJ?
+Hototogisu Maze Soba - Funan,"Japanese, Ramen, Noodles",N/A,25 mins , 0.5 km,N/A,N/A,4-C24JRFVTGA4GUA?
+Quick Greens - Funan Mall,"Healthy, Vegetarian Friendly, Vegan",N/A,25 mins , 0.5 km,N/A,N/A,4-C24HDEKKL2WVC2?
+Don Jr - Funan,"Japanese, Snack",N/A,25 mins , 0.5 km,N/A,N/A,4-C2XJHGMET2T3EX?
+Carvers X - North Bridge Road,"Western, Beef, Vegetarian",N/A,N/A,N/A,N/A,N/A,4-C3UGCXDKSFTXHE?
+Korean Cuisine - Funan Mall,Korean,N/A,25 mins , 0.5 km,N/A,N/A,4-C35YTYWFGB4JDA?
+Big Grill - Best of Australian Steaks - Funan Mall,"Western, Local & Malaysian, BBQ & Grill",N/A,N/A,N/A,N/A,N/A,4-C35YTYWFCKLJTN?
+Mala Hotpot - Funan Mall,"Chinese, Local & Malaysian, Mala",N/A,N/A,N/A,N/A,N/A,4-C35YTYWFCETYJT?
+Claypot Delight - Funan Mall,"Local & Malaysian, Noodles",N/A,N/A,N/A,N/A,N/A,4-C35YTYWFCEAGNE?
+Amanda Yong Tau Foo - Funan Mall,Local & Malaysian,N/A,N/A,N/A,N/A,N/A,4-C35YTYWFAUUETT?
+Penyet King - Funan Mall,Local & Malaysian,N/A,N/A,N/A,N/A,N/A,4-C35YTYWFATCWBE?
+Fish Soup Ban Mian - Funan Mall,"Local & Malaysian, Seafood, Noodles",N/A,N/A,N/A,N/A,N/A,4-C35YTYWFA6NAAJ?
+Tong Luck Mixed Veg Rice - Funan Mall,"Local & Malaysian, Chinese, Hawker",N/A,N/A,N/A,N/A,N/A,4-C35YTYWFA62FTA?
+Yuan Wei Mini Wok - Funan Mall,"Local & Malaysian, Noodles, Zi Char",N/A,N/A,N/A,N/A,N/A,4-C35YTYWFA4NWSE?
+Flavors of Japan - Funan Mall,"Japanese, Ramen",N/A,N/A,N/A,N/A,N/A,4-C35YTYWEV2LFJ6?
+Dim Sum - Funan Mall,"Dim Sum, Local & Malaysian",N/A,N/A,N/A,N/A,N/A,4-C35YTYWEV2EBRE?
+Wingstop - Funan,"Fast Food, Fried Chicken, Western, Halal",N/A,30 mins , 0.5 km,N/A,N/A,4-C4NBJNMVAYXZME?
+Xi Men Jie - Funan,"Chinese, Healthy, Drinks & Beverages",N/A,25 mins , 0.5 km,N/A,N/A,4-C4DGKA4GN4CDE2?
+Mala Fried Skewer King - Funan Mall,Chinese,N/A,25 mins , 0.5 km,N/A,N/A,4-C4B2MFLTCJ4ZRE?
+Bee Kee Truffle Wanton Noodle - CapitaSpring,"Chinese, Noodles, Drinks & Beverages",N/A,35 mins , 1.5 km,N/A,N/A,SGDD01392?
+PENG 鹏 Tiong Bahru Wanton Mee - CapitaSpring,"Chinese, Local & Malaysian, Noodles",N/A,30 mins , 1.6 km,N/A,N/A,SGDD12541?
+Authentic Hock Lam Beef Noodles - 13 North Canal Road,"Chinese, Noodles",N/A,35 mins , 1.5 km,N/A,N/A,SGDD01360?
+Potato Corner - Funan,"Local & Malaysian, Fast Food, Snack",N/A,25 mins , 0.5 km,N/A,N/A,4-CZJZBADJCXA2NN?
+Cellarbration Bistro & Bottle Shop - Lorong Telok,"Alcohol, Mart, Drinks & Beverages",N/A,N/A,N/A,N/A,N/A,4-C4MYGELXJZLWJJ?
+Yakizen - Boat Quay Conservation Area,"Japanese, BBQ & Grill, Salad, Zi Char, Sushi",N/A,35 mins , 1.4 km,N/A,N/A,4-C2EAC3VJEBUWL2?
+Dondonburi - Lorong Telok,"Japanese, Noodles, Drinks & Beverages",N/A,N/A,N/A,N/A,N/A,4-C3VWVT6ETNUVLT?
+Beng Thin Hoon Kee - OCBC Centre,"Chinese, Dessert, Drinks & Beverages",N/A,30 mins , 1.4 km,N/A,N/A,4-C22KT6VFVYJHC6?
+Hisingapore - High Street Centre,"Mart, Healthy, Snacks",N/A,N/A,N/A,N/A,N/A,4-C6CCKELHFGA2AA?
+Medzs Bistro & Bar - High Street Centre,"Bakery & Cake, Breakfast & Brunch, Korean, Western",N/A,N/A,N/A,N/A,N/A,4-C6ABGB2YTT2UEJ?
+Medzs Bistro & Bar - High Street Centre,"Bakery & Cake, Breakfast & Brunch, Korean, Western",N/A,N/A,N/A,N/A,N/A,4-C6ABGB2YTT2UEJ?
+Flo Dining - High Street Plaza,"Japanese, Chicken, Vegetarian Friendly",N/A,25 mins , 1 km,N/A,N/A,4-C3UBCEDHTT6FCN?
+Ricciotti - The Riverwalk,"Pasta, Pizza, Italian",N/A,35 mins , 1.1 km,N/A,N/A,SGDD08664?
+Sinpopo Coffee - Funan,"Bakery & Cake, Local & Malaysian",N/A,25 mins , 0.5 km,N/A,N/A,4-CYW1LZNWMCNJVA?
+Ramanico Delights - High Street Plaza,Chinese,N/A,25 mins , 0.9 km,N/A,N/A,4-C3JDL6TGDF3WNN?
+Sushi Express - Funan,"Dessert, Sushi, Japanese, Group Friendly",N/A,25 mins , 0.5 km,N/A,N/A,4-CYXBCJDGNGE3EJ?
+Souperstar - One Raffles Place,Salad,N/A,35 mins , 1.6 km,N/A,N/A,4-CZCUCRKVCAMYVA?
+Tummy Delights - Raffles Place,"Chinese, Western, BBQ & Grill",N/A,N/A,N/A,N/A,N/A,4-C6BAGXDYGJDBET?
+Peach Garden - OCBC Centre,"Chinese, Dim Sum, Seafood",N/A,30 mins , 1.4 km,N/A,N/A,4-CYLJWGMVVLNVTE?
+Bombay Grill (Restaurant Delivery),Indian,N/A,119 mins , 1.2 km,N/A,N/A,4-CZCFEKMTA6TXRE?
+Two Wings - North Bridge Road,"Western, Fried Chicken, Drinks & Beverages",N/A,25 mins , 0.5 km,N/A,N/A,4-CYLJWGEJRP3TJA?
+Ramen Matsuri - 7 North Canal Road,"Japanese, Ramen, Noodles",N/A,30 mins , 1.3 km,N/A,N/A,SGDD00979?
+Ange Bakes Keto Bakery & Cafe - High Street Plaza,"Mart, Bakery, Dessert, Local, Snacks",N/A,30 mins , 1 km,N/A,N/A,4-CZD1V32GJVEUCE?
+O2 Bistro - Boat Quay Conservation Area,"Dessert, Chinese, Western",N/A,25 mins , 1.5 km,N/A,N/A,4-C2MUN4CTR2VXWE?
+Qi Ji - Funan Mall,"Chinese, Halal, Local & Malaysian, Group Friendly",N/A,30 mins , 0.5 km,N/A,N/A,4-CYWKAUBUPEDVJX?
+Naga House - Lorong Telok,"Coffee & Tea, Drinks & Beverages, Japanese Cuisine",N/A,25 mins , 1.4 km,N/A,N/A,4-C3NCCTNHRCDTRE?
+Kazo Premium - Funan,"Bakery & Cake, Dessert, Cakes & Bakeries, Halal",N/A,25 mins , 0.5 km,N/A,N/A,4-C3E3EFD3G3VCTN?
+Smooy - Funan,"Dessert, Ice Cream",N/A,30 mins , 0.5 km,N/A,N/A,4-C2TBC6CDV6UACE?
+Men Men Don - Funan Mall,"Japanese, Noodles, Bento",N/A,25 mins , 0.5 km,N/A,N/A,4-CZC2A2DDGZNYBA?
+Sukiya - Funan,"Japanese, Kids Friendly, Drinks & Beverages, Seafood, Halal",N/A,25 mins , 0.5 km,N/A,N/A,4-C3XTAN6WCCLJKA?
+Sing Swee Kee Chicken Rice X Raffles Coffee - North Bridge Road,"Local & Malaysian, Coffee & Tea, Drinks & Beverages",N/A,N/A,N/A,N/A,N/A,4-C6AFLYKZANBBLN?
+Beyond Fruit - Funan,"Drinks & Beverages, Dessert, Healthy",N/A,25 mins , 0.5 km,N/A,N/A,4-C4MZEJ51G64XGN?
+Hill Street - Mix & Match Malls (Mart),"Convenience, Bakery & Pastries, Mart",N/A,N/A,N/A,N/A,N/A,4-C36HR8CFJCLHJE?
+Wayang - Funan,"Indonesian, Seafood, Drinks & Beverages",N/A,25 mins , 0.5 km,N/A,N/A,4-C4CKR4AUCFLKAT?
+Delibowl - Funan 壹碗福南数码广场,"Local & Malaysian, Chinese, Zi Char, Halal",N/A,25 mins , 0.5 km,N/A,N/A,4-CY23VKEUCUA1CA?
+Yan Ji Gourmet Seafood Soup - Funan,"Chinese, Seafood",N/A,30 mins , 0.5 km,N/A,N/A,4-CYU2V2KFCGLXTJ?
+Subway - Funan,"Sandwiches, Halal, Fast Food, Group Friendly",N/A,25 mins , 0.5 km,N/A,N/A,4-CZDKG25AVYVAT6?
+53 Galaxy Space - South Bridge Road,"Western, Breakfast & Brunch, Pasta, Salad",N/A,N/A,N/A,N/A,N/A,4-C25UGT5GNVA2WA?
+Bombay House - South Bridge Road,Indian,N/A,92 mins , 1.2 km,N/A,N/A,4-C2WGSGMCCNXUGT?
+Aryana - North Indian Restaurant - South Bridge Road 🏍,"Indian, Vegetarian Friendly",N/A,119 mins , 1.2 km,N/A,N/A,4-C3LGL3LDWAJHJT?
+Bombay House - South Bridge Road,Indian,N/A,92 mins , 1.2 km,N/A,N/A,4-C2WGSGMCCNXUGT?
+Aryana - North Indian Restaurant - South Bridge Road 🏍,"Indian, Vegetarian Friendly",N/A,119 mins , 1.2 km,N/A,N/A,4-C3LGL3LDWAJHJT?
+Bombay Curry And Kebabs North Indian Cuisine - South Bridge Road 🏍,"BBQ & Grill, Seafood, Bento, Indian",N/A,99 mins , 1.2 km,N/A,N/A,4-C3LGL26GR23AMA?
+Hot Express North Indian Cuisine - South Bridge Road,"Indian, BBQ & Grill, Seafood",N/A,118 mins , 1.2 km,N/A,N/A,4-C253CYCTETA2ME?
+Bawarchi North Indian Cuisine - South Bridge Road,Indian,N/A,119 mins , 1.2 km,N/A,N/A,4-C252FED2JKLKV6?
+The Taste of Bharath - High Street Plaza,"Indian, Local & Malaysian",N/A,20 mins , 0.5 km,N/A,N/A,4-CYN1J3LDNLKDJA?
+Churros Republic - Funan Mall,"Dessert, Snack, Bakery & Pastries, Spanish, Drinks & Beverages",N/A,25 mins , 0.5 km,N/A,N/A,4-C2E2V3VCFF4GCX?
+Gong Yuan Ma La Tang - Funan,"Local & Malaysian, Chinese, Mala",N/A,25 mins , 0.5 km,N/A,N/A,4-CZBXVFVUJF3GVX?
+A Gan Guo Kui - North Bridge Road,"Snack, Bakery, Chinese",N/A,25 mins , 0.5 km,N/A,N/A,4-CZDVUF2VLKKFV2?
+Old Chang Kee - Funan,"Snack, Local & Malaysian, Halal, Group Friendly",N/A,25 mins , 0.5 km,N/A,N/A,4-CYVFL2CDN2UEJ2?
+House of Seafood (MediterrAsian BBQ Bar) - The Riverwalk,"Local & Malaysian, Chinese, Seafood",N/A,25 mins , 1.1 km,N/A,N/A,4-C2JFEXCJA74GEE?
+Twyst Pasta - Raffles Place MRT Station,"Noodles, Fast Food, Italian, Bakery & Cake, Halal",N/A,35 mins , 1.7 km,N/A,N/A,4-C25ZKECUCZD3AN?
+Godmama Modern Peranakan Kitchen - Funan Mall,"Local & Malaysian, Pasta, Dessert, Seafood",N/A,25 mins , 0.5 km,N/A,N/A,4-CZDHLA3KV4J3DA?
+Old Tea Hut - One Raffles Place,"Drinks & Beverages, Coffee & Tea, Bubble Tea",N/A,35 mins , 1.6 km,N/A,N/A,4-CZLGCZDUNFMVPA?
+Saap Saap Thai - Funan,"Thai, Noodles, Halal",N/A,30 mins , 0.5 km,N/A,N/A,4-CYWCATD3GAWTRN?
+Ba Ge Chuan Chuan - South Bridge Road,"Chinese, BBQ & Grill",N/A,N/A,N/A,N/A,N/A,4-C3MAL2EZV3VKTT?
+NOKA - Funan,"Alcohol, Dessert, Drinks & Beverages, Sushi",N/A,25 mins , 0.8 km,N/A,N/A,4-CZJVJ6KABAXJET?
+Acai King - North Bridge Road,"Dessert, Drinks & Beverages",N/A,N/A,N/A,N/A,N/A,4-C6C3WB2WRKKALJ?
+Swirled - Capitaspring,"Western, Pasta, Seafood, Snack, Local & Malaysian",N/A,30 mins , 1.5 km,N/A,N/A,4-C4C3MA42ENXZCA?
+Patrons’ Box - One Raffles Place,"Western, Middle Eastern, Dessert",N/A,30 mins , 1.6 km,N/A,N/A,4-C3LGR6M3C8EXCE?
+Cedele - CIMB Plaza,"Western, Bakery & Cake, Breakfast & Brunch",N/A,35 mins , 1.9 km,N/A,N/A,4-C34WEEW1ECKAC6?
+Tanamera Coffee - Oxley @ Raffles,"Indonesian, Breakfast & Brunch, Fried Rice, Satay, Soup",N/A,119 mins , 1.8 km,N/A,N/A,4-C2T3CY2YWAVGNE?
+The Oyster Bank - Funan,"Japanese, Seafood, Sushi",N/A,25 mins , 0.8 km,N/A,N/A,4-CY3UVAXARRBACN?
+Cedele Mart - CIMB Plaza,"Bakery & Cake, Groceries, Healthy Food, Snack, Gourmet",N/A,35 mins , 1.8 km,N/A,N/A,4-C34WEEW1DCLVPA?
+Golden Village Goldbites - Funan,"Western, Fast Food, Drinks & Beverages",N/A,30 mins , 0.5 km,N/A,N/A,4-C22ENXV2JAAJPA?
+Ya Kun Kaya Toast - Funan Mall,"Coffee & Tea, Bakery & Cake, Dessert, Group Friendly",N/A,30 mins , 0.9 km,N/A,N/A,4-CZBXTF4YA8DXGT?
+Dunkin' Donuts - Funan Mall,"Western, Group Friendly, Bakery & Cake, Drinks & Beverages, Halal",N/A,25 mins , 0.9 km,N/A,N/A,4-CYU3N7KCECKGNX?
+The Coffee Bean & Tea Leaf - CIMB Plaza,"Breakfast & Brunch, Coffee & Tea, Dessert, Halal",N/A,30 mins , 1.8 km,N/A,N/A,4-C2LXSBCJTJNGLN?
+LiHO Tea - Funan,"Coffee & Tea, Drinks & Beverages, Bubble Tea, Group Friendly",N/A,30 mins , 0.8 km,N/A,N/A,4-CZCBCGNXAY5ACA?
+Lucky69 Beer Cafe - North Canal Road,"Snack, Alcohol, Western",N/A,30 mins , 1.5 km,N/A,N/A,4-C2LAR3XHVP4EME?
+Chalong - Charcoal Grill Meat - One Raffles Place,"Western, Thai, BBQ & Grill",N/A,30 mins , 1.6 km,N/A,N/A,4-CZL3BB5KNBBGHE?
+Toast Box - Phillip Street,"Local & Malaysian, Breakfast & Brunch, Drinks & Beverages",N/A,25 mins , 2.6 km,N/A,N/A,SGDD11205?
+Gado & Grill - One Raffles Place,"Bento, Fried Chicken, Group Friendly",N/A,35 mins , 1.6 km,N/A,N/A,SGDD06836?
+Humble Bakery - One Raffles Place,"Bakery & Cake, Cakes & Bakeries",N/A,30 mins , 1.6 km,N/A,N/A,4-C34ULBUAENKKN2?
+Smile Martabak - Funan,"Indonesian, Dessert, Halal",N/A,30 mins , 0.8 km,N/A,N/A,4-C3KBLATWN8L1TN?
+The Alley - Funan,"Drinks & Beverages, Coffee & Tea, Bubble Tea, Group Friendly",N/A,25 mins , 0.6 km,N/A,N/A,4-C26ZJFWXN3NHHA?
+Super Coco - Funan,"Dessert, Drinks & Beverages, Bubble Tea, Group Friendly",N/A,25 mins , 0.8 km,N/A,N/A,4-C3THEXDDT62YNA?
+Cat & The Fiddle - Raffles Place MRT Station,"Frozen Food, Bakery & Cake, Dessert, Halal",N/A,30 mins , 1.7 km,N/A,N/A,4-C22UMAVDRYDYCE?
+Un-Yang-Kor-Dai - South Bridge,"Thai, Noodles, Islandwide Delivery, MICHELIN Bib Gourmand, Salad",N/A,30 mins , 1.2 km,N/A,N/A,SGDD08841?
+luckin coffee - Royal Group Building,"Bakery & Cake, Breakfast & Brunch, Coffee & Tea, Dessert, Drinks & Beverages",N/A,N/A,N/A,N/A,N/A,4-C6A1LB6FTEDXHA?
+Lucky Saigon - North Canal Road,"Snack, Noodles, Vegetarian Friendly",N/A,30 mins , 1.5 km,N/A,N/A,SGDD00739?
+Poke Theory - Change Alley Mall,"Salad, Healthy, Vegan, Halal, Group Friendly",N/A,30 mins , 1.8 km,N/A,N/A,4-C2BTTP4CCX6VGT?
+Omnivore - Oxley @ Raffles,"Western, Salad, Group Friendly",N/A,30 mins , 1.8 km,N/A,N/A,4-C2X1T3VTTKAGLX?
+Sanook Kitchen - Funan Mall,Thai,N/A,30 mins , 0.9 km,N/A,N/A,4-C2E3GCCFEEWXAN?
+Ikigai Izakaya - The Riverwalk,Japanese,N/A,N/A,N/A,N/A,N/A,4-C2VDKCCGAZDEN2?
+&Made Gourmet Burgers - Funan Mall,"Burgers, Snack",N/A,N/A,N/A,N/A,N/A,4-C32ET3DULETBEA?
+Ajumma's - Funan,"Local & Malaysian, Korean",N/A,30 mins , 0.8 km,N/A,N/A,4-CZEXGY4XWGNBTE?
+L'Entrecote La Baguette - Funan Mall,"French, Sandwiches",N/A,25 mins , 0.8 km,N/A,N/A,4-C32ET3DULFUFVJ?
+The Sandwich Shop - Hitachi Tower,"Western, Breakfast & Brunch, Snack, Group Friendly",N/A,30 mins , 1.8 km,N/A,N/A,4-C2UTLUVJAYWHTX?
+Guzman Y Gomez - Funan,"Mexican, Kids Friendly, Healthy, Group Friendly",N/A,30 mins , 0.9 km,N/A,N/A,4-CZEUR7LAUCDEC2?
+Yakiniku Shokudo - Funan Mall,"Japanese, BBQ, Grill",N/A,30 mins , 0.8 km,N/A,N/A,4-CZJTAFBYGNLEEA?
+Co Nut Ink - Esplanade Theatres On The Bay,"Mart, Beverages, Dessert, Ice Cream",N/A,35 mins , 2.1 km,N/A,N/A,SGDD08898?
+Namino Hana - One Raffles Place,"Bento, Drinks & Beverages, Japanese, Salad",N/A,25 mins , 1.6 km,N/A,N/A,4-C3VWV8NGC2VULT?
+Kebabs Faktory - Funan,"Salad, Healthy, Halal, Fast Food, Group Friendly",N/A,30 mins , 0.9 km,N/A,N/A,4-CZAWBCC1SEVYEA?
+CHICHA San Chen - Change Alley,"Drinks & Beverages, Coffee & Tea, Bubble Tea, Group Friendly",N/A,40 mins , 1.8 km,N/A,N/A,4-C2CUKAU3SGNYTE?
+WOK HEY - Funan,"Bento, Chinese, Local & Malaysian, Halal, Group Friendly",N/A,30 mins , 0.8 km,N/A,N/A,4-C2VKJ3U2C2JZTN?
+Tea Pulse - Royal Group Building,"Drinks & Beverages, Coffee & Tea, Bubble Tea, Group Friendly",N/A,35 mins , 2.4 km,N/A,N/A,4-CZAJVFBBCXNJEN?
+Nanyang Chicken - South Bridge Road,"Bento, Local & Malaysian, Chinese",N/A,25 mins , 1.2 km,N/A,N/A,SGDD09015?
+Fun Toast - One Raffles Place,"Local & Malaysian, Breakfast & Brunch, Coffee & Tea",N/A,30 mins , 1.6 km,N/A,N/A,SGDD08530?
+Manam - Upper Circular Road,"Indian, Snack, Alcohol",N/A,25 mins , 1.1 km,N/A,N/A,4-C2UWA3VBTACTA2?
+Urban Mix - One Raffles Place,"Mexican, Salad, Vegetarian, Healthy, Group Friendly",N/A,35 mins , 1.6 km,N/A,N/A,SGDD03136?
+Mr. Coconut - One Raffles Place,"Drinks & Beverages, Bubble Tea, Dessert",N/A,35 mins , 1.6 km,N/A,N/A,4-C2B1RVCEGEEDJA?
+Little Ribbons Pasta Co. - Funan,"Italian, Pasta, Western",N/A,30 mins , 0.9 km,N/A,N/A,4-C3JTGTBXJAXXR2?
+Fish Soup Paradise - Raffles Place,"Porridge, Chinese, Local & Malaysian",N/A,35 mins , 1.8 km,N/A,N/A,4-C2EVEBLHCXMJNJ?
+Ha Jun Korean - CIMB Plaza,"Japanese, Korean, Bento",N/A,35 mins , 1.9 km,N/A,N/A,4-C6B1MFC2T8JCV6?
+Dungeon by II Fiore - Raffles Place,"Chinese, Pizza, Pasta",N/A,30 mins , 1.8 km,N/A,N/A,4-CY5WJUTKJ24BNT?
+Adam Road Mee Soto - Oxley @ Raffles,"Local & Malaysian, Drinks & Beverages, Noodles",N/A,35 mins , 1.8 km,N/A,N/A,4-C3VKNTDUFBXATX?
+Kotobuki Japanese Restaurant - One Raffles Place,"Bento, Japanese, Sushi, Group Friendly",N/A,25 mins , 1.6 km,N/A,N/A,4-C2UEME3ART53C6?
+Hennessy Duck - North Bridge Road,"Local & Malaysian, Noodles, Fried Chicken",N/A,25 mins , 0.6 km,N/A,N/A,4-C33YV6JWRJBYCT?
+Paradise Dynasty - Funan,"Chinese, Noodles, Rice",N/A,30 mins , 1 km,N/A,N/A,4-CYUTT6CDRUXXL6?
+Paninoteca by d.o.c - South Bridge,"Breakfast & Brunch, Italian, Western",N/A,N/A,N/A,N/A,N/A,4-C4B1R35FNF3AJA?
+espresso.doc - Chan Brother @ 68,"Pizza, Sandwiches, Breakfast, Coffee, Juice",N/A,30 mins , 1.2 km,N/A,N/A,4-C3LFA2NHGJ2BAN?
+umisushi - One Raffles Place,"Japanese, Bento, Sushi, Group Friendly",N/A,35 mins , 1.7 km,N/A,N/A,4-CYUWR4KCVBLYGN?
+Eventasty Noodle Bar 一碗田拉面 - Funan,"Local & Malaysian, Chinese, Noodles, BBQ & Grill",N/A,25 mins , 0.6 km,N/A,N/A,4-CYXVJA6WAB3TAJ?
+Kopifellas - Change Alley Mall,"Chinese, Coffee & Tea, Drinks & Beverages, Dim Sum",N/A,30 mins , 1.8 km,N/A,N/A,4-C2XWJRCGEJKBGN?
+Tiong Bahru Bakery - Funan,"Drinks & Beverages, Bakery & Cake, Dessert, Coffee & Tea, French",N/A,30 mins , 0.9 km,N/A,N/A,4-CY6XVVMJBE5FRE?
+Nasty Cookie Factory - Funan,"Bakery & Cake, Snacks, Group Friendly",N/A,25 mins , 0.8 km,N/A,N/A,4-CY5ERECHCEEKNE?
+Gin Khao - One Raffles Place,"Thai, Noodles",N/A,30 mins , 1.6 km,N/A,N/A,SGDD00526?
+Flavours by Saute - Funan,"Vegetarian Friendly, Western, Kids Friendly",N/A,30 mins , 0.8 km,N/A,N/A,4-CZDWLYEBLF2XGT?
+Komala's - Change Alley Mall,"Indian, Vegetarian Friendly",N/A,30 mins , 1.8 km,N/A,N/A,4-C2KFCVE1NZJXL6?
+Tip Top Curry Puff - One Raffles Place,"Drinks & Beverages, Snack, Noodles, Group Friendly",N/A,35 mins , 1.7 km,N/A,N/A,4-CYMFLRLTRA2WGX?
+LeNu - Funan,"Chinese, Noodles, Beef, Soup",N/A,30 mins , 0.6 km,N/A,N/A,4-CYUTT6CDJ4ETNT?
+Kura Patisserie Bakery,"French, Dessert, Western",N/A,30 mins , 1.3 km,N/A,N/A,4-C3XGLVLZEPCHR6?
+Joah Korean Restaurant - One Raffles Place,"Frozen Food, Korean",N/A,35 mins , 1.6 km,N/A,N/A,4-C2TWVLLTCK2BGX?
+Greendot - Raffles Place,"Healthy, Noodles, Vegan",N/A,40 mins , 1.6 km,N/A,N/A,SGDD05316?
+The Soup Spoon - Raffles Xchange,"Soup, Western, Vegetarian Friendly, Healthy, Halal",N/A,30 mins , 1.7 km,N/A,N/A,SGDD11568?
+Twelve Cupcakes - One Raffles Place,"Mart, Snacks, Dessert",N/A,25 mins , 1.7 km,N/A,N/A,4-CYN1J3LAAUTVHE?
+Upshot Coffee - One Raffles Place,"Coffee & Tea, Drinks & Beverages, Western",N/A,30 mins , 1.6 km,N/A,N/A,4-C3BUR2NCFEBJA6?
+Pasta E Formaggio - Collyer Quay Centre,Italian,N/A,30 mins , 1.8 km,N/A,N/A,4-C2LCJP6XFFUTTT?
+Xiang Gua Li La - North Bridge Road,"Seafood, Chinese",N/A,N/A,N/A,N/A,N/A,4-C34TN7DGA6MBVN?
+Chop Kin Mee - 15 Philip Street,"Noodles, Thai",N/A,30 mins , 2.4 km,N/A,N/A,4-C3EGDBAGC62BMA?
+Afuri - Funan,"Ramen, Noodles, Japanese",N/A,30 mins , 0.9 km,N/A,N/A,4-CZJBFCJZNUVWT2?
+Qin Ji Rougamo - One Raffles Place,"Chinese, Fast Food, Noodles, Burgers, Snack",N/A,30 mins , 1.7 km,N/A,N/A,4-C2EAVNCFCCJBVX?
+Dal.komm Coffee - Funan,"Dessert, Coffee & Tea, Breakfast & Brunch",N/A,30 mins , 0.6 km,N/A,N/A,4-CY2AJUEVVA6YNX?
+Le Tian Tian - One Raffles Place,"Breakfast & Brunch, Dessert, Drinks & Beverages, Local & Malaysian, Snack",N/A,25 mins , 1.6 km,N/A,N/A,4-CZEFNUXCAYJFV2?
